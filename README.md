@@ -1,1 +1,1 @@
-# C-25-inheritance
+# Box Class
